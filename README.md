@@ -24,7 +24,7 @@
 - RAM¹ | ([HyperX DDR3 8,0 GB](https://www.kingstonstore.com.br/products/hx316c10fb-8))
 - [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124900730347550/unknown.png" alt='dev' height='50'>](https://)
 - RAM² | ([HyperX DDR3 8,0 GB](https://www.kingstonstore.com.br/products/hx316c10fb-8))
-- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124900730347550/unknown.png alt='dev' height='50'>](https://)
+- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124900730347550/unknown.png" alt='dev' height='50'>](https://)
 - HD | ([Seagate BarraCuda 1TB ST 1000DN003](mercadolivre.com.br/disco-rigido-interno-seagate-barracuda-st1000dm003-1tb))
 - [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124901271412766/unknown.png" alt='dev' height='50'>](https://)
 - GPU | ([NVIDIA GeForce GT 1030](nvidia.com/pt-br/drivers/geforce-gt-1030))
