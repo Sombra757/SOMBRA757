@@ -3,8 +3,11 @@
 
 # Contato:
 - Oferta | ([Trocar](steamcommunity.com/tradeoffer/new/?partner=1102007752&token=OvJfljOa))
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" alt='dev' height='50'>](https://)
 - Suporte | ([Doar](roblox.com/catalog/10237818678))
+- [<img src="https://static.wikia.nocookie.net/logopedia/images/1/1e/Roblox_2022_%28Icon%29.png/revision/latest/scale-to-width-down/200?cb=20220831193228" alt='dev' height='50'>](https://)
 - Servidor | ([Entrar](discord.gg/4PFE8WA))
+- [<img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" alt='dev' height='35'>](https://)
 
 # Informações Pessoais:
 - Nome | Não Informado
@@ -26,7 +29,7 @@
 - RAM² | ([HyperX DDR3 8,0 GB](https://www.kingstonstore.com.br/products/hx316c10fb-8))
 - [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124900730347550/unknown.png" alt='dev' height='50'>](https://)
 - HD | ([Seagate BarraCuda 1TB ST 1000DN003](mercadolivre.com.br/disco-rigido-interno-seagate-barracuda-st1000dm003-1tb))
-- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124901271412766/unknown.png" alt='dev' height='50'>](https://)
+- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124901271412766/unknown.png" alt='dev' height='60'>](https://)
 - GPU | ([NVIDIA GeForce GT 1030](nvidia.com/pt-br/drivers/geforce-gt-1030))
 - [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124896494108702/unknown.png" alt='dev' height='50'>](https://)
 - Fonte | ([Corsair CX430](corsair.com/pt/pt/Categorias/Produtos/Unidades-de-fonte-de-alimenta%C3%A7%C3%A3o/CX-SERIES/p/CP-9020046-EU))
@@ -36,11 +39,11 @@
 - Monitor | ([SAMSUNG SD332 24"](samsung.com/br/monitors/flat/fhd-gaming-monitor-with-1ms-fast-response-time-24-inch-ls24d332hsx-zd))
 - [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124904735907840/unknown.png" alt='dev' height='50'>](https://)
 - Teclado | ([T-Dagger Bora Preto RGB Switch Vermelho](tdagger.com.br/produtos/bora))
-- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124901988638770/unknown.png" alt='dev' height='40'>](https://) [<img src="https://img.terabyteshop.com.br/produto/g/teclado-gamer-mecanico-t-dagger-bora-switch-blue-rgb-black-t-tgk315_88700.png" alt='dev' height='60'>](https://)
+- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124901988638770/unknown.png" alt='dev' height='50'>](https://) [<img src="https://img.terabyteshop.com.br/produto/g/teclado-gamer-mecanico-t-dagger-bora-switch-blue-rgb-black-t-tgk315_88700.png" alt='dev' height='75'>](https://)
 - Mouse | ([Redragon Cobra M711 Preto RGB](redragon.com.br/cobra))
-- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124902370328587/unknown.png" alt='dev' height='40'>](https://) [<img src="https://www.atacadogames.com/imagem/redragon/mouse-gamer-redragon-cobra-fps-m711-fps-rgb-24000-dpi-preto/2/117104.jpg?pfdrid_c=true" alt='dev' height='50'>](https://)
+- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124902370328587/unknown.png" alt='dev' height='45'>](https://) [<img src="https://www.atacadogames.com/imagem/redragon/mouse-gamer-redragon-cobra-fps-m711-fps-rgb-24000-dpi-preto/2/117104.jpg?pfdrid_c=true" alt='dev' height='65'>](https://)
 - Microfone | ([Tomate MTG-020](tomate.tv/produto/mtg-020))
-- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124902714245160/unknown.png" alt='dev' height='30'>](https://) [<img src="https://media.discordapp.net/attachments/973699852229804062/1028127633877237760/unknown.png" alt='dev' height='40'>](https://)
+- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124902714245160/unknown.png" alt='dev' height='45'>](https://) [<img src="https://media.discordapp.net/attachments/973699852229804062/1028127633877237760/unknown.png" alt='dev' height='55'>](https://)
 
 # Interesses:
 - Gabinete¹ | ([Redragon Wideload](redragon.com.br/wideload))
