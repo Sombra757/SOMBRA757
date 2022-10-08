@@ -48,7 +48,7 @@
 - Gabinete² | ([Redragon Cosmos](redragon.com.br/cosmos))
 - [<img src="https://static.wixstatic.com/media/71a6c2_b4dff008a5f242dd96e6779bf5005b84~mv2.png/v1/fill/w_1000,h_1000,al_c,q_90,enc_auto/06.png" alt='dev' height='75'>](https://)
 - Monitor | ([Redragon Sapphire 24”](redragon.com.br/sapphire))
-- [<img src="https://static.wixstatic.com/media/71a6c2_d792772cf6e14d16bf02f7534b91cebc~mv2.png/v1/fill/w_1000,h_794,al_c,q_90,enc_auto/Monitor.png" alt='dev' height='75'>](https://)
+- [<img src="https://static.wixstatic.com/media/71a6c2_d792772cf6e14d16bf02f7534b91cebc~mv2.png/v1/fill/w_1000,h_794,al_c,q_90,enc_auto/Monitor.png" alt='dev' height='65'>](https://)
 - Headset¹ | ([Redragon Scylla](redragon.com.br/scyllah901))
 - [<img src="https://hookpcs.com.br/wp-content/uploads/2022/08/H901_PNGWEB_2_fcqdyl.png" alt='dev' height='75'>](https://)
 - Headset² | ([Redragon Pandora](redragon.com.br/pandora))
