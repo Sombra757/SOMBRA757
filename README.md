@@ -1,5 +1,4 @@
 ### Bem-vindo(a) ao GitHub Steam de Sombra757ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⎯ ❐ ⤬
-(https://steamuserimages-a.akamaihd.net/ugc/1645465409574509924/5246CD767007F892831EBCE6529C72CA66D8D144/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 
 - Mantenha sua Conta Segura em: ([docs.github.com](https://docs.github.com/pt/communities/maintaining-your-safety-on-github))
 
