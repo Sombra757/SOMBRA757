@@ -47,6 +47,8 @@
 - [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124902714245160/unknown.png" alt='dev' height='45'>](https://) [<img src="https://media.discordapp.net/attachments/973699852229804062/1028127633877237760/unknown.png" alt='dev' height='55'>](https://)
 
 # Interesses:
+- Mouse | ([Redragon Storm Elite](https://www.redragon.com.br/storm-elite))
+- [<img src="https://static.wixstatic.com/media/71a6c2_a7f7dcf5108b42e6acd41638519b214c~mv2.png/v1/fill/w_512,h_510,al_c,q_85,enc_auto/04.png" alt='dev' height='75'>](https://)
 - Gabinete¹ | ([Redragon Wideload](redragon.com.br/wideload))
 - [<img src="https://img.terabyteshop.com.br/produto/g/gabinete-gamer-redragon-wideload-mid-tower-com-vidro-temperado-black-s-fonte-gc-802_100268.png" alt='dev' height='75'>](https://)
 - Gabinete² | ([Redragon Cosmos](redragon.com.br/cosmos))
