@@ -1,7 +1,7 @@
 #### Bem-vindo(a) ao GitHub Steam de Sombra757ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⎯ ❐ ⤬
+- Mantenha sua Conta Segura em: ([docs.github.com](https://docs.github.com/pt/communities/maintaining-your-safety-on-github))
 
 ## Contato:
-- Mantenha sua Conta Segura em: ([docs.github.com](https://docs.github.com/pt/communities/maintaining-your-safety-on-github))
 - Oferta | ([Trocar](steamcommunity.com/tradeoffer/new/?partner=1102007752&token=OvJfljOa))
 - Suporte | ([Doar](roblox.com/catalog/10237818678))
 - Servidor | ([Entrar](discord.gg/4PFE8WA))
