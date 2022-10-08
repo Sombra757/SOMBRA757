@@ -1,12 +1,12 @@
-#### Bem-vindo(a) ao GitHub Steam de Sombra757ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⎯ ❐ ⤬
+### Bem-vindo(a) ao GitHub Steam de Sombra757ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⎯ ❐ ⤬
 - Mantenha sua Conta Segura em: ([docs.github.com](https://docs.github.com/pt/communities/maintaining-your-safety-on-github))
 
-## Contato:
+# Contato:
 - Oferta | ([Trocar](steamcommunity.com/tradeoffer/new/?partner=1102007752&token=OvJfljOa))
 - Suporte | ([Doar](roblox.com/catalog/10237818678))
 - Servidor | ([Entrar](discord.gg/4PFE8WA))
 
-## Informações Pessoais:
+# Informações Pessoais:
 - Nome | Não Informado
 - Ocupação | Estudante (ensino médio)
 - Idade | 15 a
@@ -14,7 +14,7 @@
 - Peso | 50 kg (aproximadamente)
 - Idiomas | Português (nativo), Inglês (básico) e Espanhol (aprendendo)
 
-## Especificações:
+# Especificações:
 - SO | ([Windows 10 Pro](https://www.microsoft.com/pt-br/d/windows-10-pro))
 - [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124896930308106/unknown.png" alt='dev' height='50'>](https://)
 - Placa-mãe | ([ASUS H61M-A](asus.com/br/SupportOnly/H61M-A/HelpDesk_Knowledge))
@@ -32,7 +32,7 @@
 - Fonte | ([Corsair CX430](corsair.com/pt/pt/Categorias/Produtos/Unidades-de-fonte-de-alimenta%C3%A7%C3%A3o/CX-SERIES/p/CP-9020046-EU))
 - [<img src="https://media.discordapp.net/attachments/973699852229804062/1028125420798885948/unknown.png" alt='dev' height='50'>](https://)
 
-## Periféricos:
+# Periféricos:
 - Monitor | ([SAMSUNG SD332 24"](samsung.com/br/monitors/flat/fhd-gaming-monitor-with-1ms-fast-response-time-24-inch-ls24d332hsx-zd))
 - [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124904735907840/unknown.png" alt='dev' height='50'>](https://)
 - Teclado | ([T-Dagger Bora Preto RGB Switch Vermelho](tdagger.com.br/produtos/bora))
@@ -42,7 +42,7 @@
 - Microfone | ([Tomate MTG-020](tomate.tv/produto/mtg-020))
 - [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124902714245160/unknown.png" alt='dev' height='30'>](https://) [<img src="https://media.discordapp.net/attachments/973699852229804062/1028127633877237760/unknown.png" alt='dev' height='40'>](https://)
 
-## Interesses:
+# Interesses:
 - Gabinete¹ | ([Redragon Wideload](redragon.com.br/wideload))
 - [<img src="https://img.terabyteshop.com.br/produto/g/gabinete-gamer-redragon-wideload-mid-tower-com-vidro-temperado-black-s-fonte-gc-802_100268.png" alt='dev' height='75'>](https://)
 - Gabinete² | ([Redragon Cosmos](redragon.com.br/cosmos))
@@ -74,5 +74,5 @@
 - Camisa³ | ([New Age](redragon.com.br/newage))
 - [<img src="https://media.discordapp.net/attachments/973699852229804062/1028131408419496006/unknown.png" alt='dev' height='75'>](https://)
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🅖🅘🅣🅗🅤🅑
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🅖🅘🅣🅗🅤🅑
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
