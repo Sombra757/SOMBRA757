@@ -37,6 +37,8 @@
 - [<img src="https://media.discordapp.net/attachments/973699852229804062/1028125420798885948/unknown.png" alt='dev' height='50'>](https://)
 
 # Periféricos:
+- Gabinete | ([Satellite K636]([tdagger.com.br/produtos/bora](https://www.lojasparaguai.com.br/lojas-no-paraguai/compubras-computers/gabinete-kit-satellite-k636-4baias-espanhol_968549))
+- [<img src="https://media.discordapp.net/attachments/973699852229804062/1029670129279180800/unknown.png" alt='dev' height='50'>](https://)
 - Monitor | ([SAMSUNG SD332 24"](samsung.com/br/monitors/flat/fhd-gaming-monitor-with-1ms-fast-response-time-24-inch-ls24d332hsx-zd))
 - [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124904735907840/unknown.png" alt='dev' height='50'>](https://)
 - Teclado | ([T-Dagger Bora Preto RGB Switch Vermelho](tdagger.com.br/produtos/bora))
@@ -49,7 +51,7 @@
 # Interesses:
 - Mouse | ([Redragon Storm Pro](https://www.redragon.com.br/storm-elite))
 - [<img src="https://static.wixstatic.com/media/71a6c2_a7f7dcf5108b42e6acd41638519b214c~mv2.png/v1/fill/w_512,h_510,al_c,q_85,enc_auto/04.png" alt='dev' height='75'>](https://)
-Mousepad | ([Redragon Storm Pro](https://www.redragon.com.br/storm-elite))
+Mousepad | ([Japanese Dragon](https://www.redragon.com.br/storm-elite))
 - [<img src="https://media.discordapp.net/attachments/973699852229804062/1029641881723883570/unknown.png" alt='dev' height='75'>](https://)
 - Headset¹ | ([Redragon Lamia](redragon.com.br/lamia))
 - [<img src="https://www.eletronicstore.com.br/wp-content/uploads/2021/10/H320RGB-5.png" alt='dev' height='75'>](https://)
