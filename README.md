@@ -1,4 +1,4 @@
-### Bem-vindo(a) ao GitHub Steam de Sombra757ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⎯ ❐ ⤬
+### Bem-vindo(a) ao GitHub Steam de Sombra757ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⎯ ❐ ⤬
 
 - Mantenha sua Conta Segura em: ([docs.github.com](https://docs.github.com/pt/communities/maintaining-your-safety-on-github))
 
@@ -54,7 +54,7 @@
 - Mousepad | ([Japanese Dragon](https://www.redragon.com.br/storm-elite))
 - [<img src="https://media.discordapp.net/attachments/973699852229804062/1029641881723883570/unknown.png" alt='dev' height='50'>](https://)
 - Headset¹ | ([Redragon Lamia](redragon.com.br/lamia))
-- [<img src="https://www.eletronicstore.com.br/wp-content/uploads/2021/10/H320RGB-5.png" alt='dev' height='75'>](https://)
+- [<img src="https://static.wixstatic.com/media/71a6c2_3d258d21927146fc9bfab381db4015cb~mv2.png/v1/fill/w_1166,h_1138,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/H320RGB-1.png" alt='dev' height='75'>](https://)
 - Headset² | ([Redragon Scylla](redragon.com.br/scyllah901))
 - [<img src="https://hookpcs.com.br/wp-content/uploads/2022/08/H901_PNGWEB_2_fcqdyl.png" alt='dev' height='75'>](https://)
 - Headset³ | ([Redragon Pandora](redragon.com.br/pandora))
