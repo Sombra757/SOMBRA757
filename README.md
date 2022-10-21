@@ -44,9 +44,9 @@
 - Teclado | ([T-Dagger Bora Preto RGB Switch Vermelho](tdagger.com.br/produtos/bora))
 - [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124901988638770/unknown.png" alt='dev' height='50'>](https://) [<img src="https://img.terabyteshop.com.br/produto/g/teclado-gamer-mecanico-t-dagger-bora-switch-blue-rgb-black-t-tgk315_88700.png" alt='dev' height='85'>](https://)
 - Mouse | ([Redragon Cobra M711 Preto RGB](redragon.com.br/cobra))
-- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124902370328587/unknown.png" alt='dev' height='40'>](https://) [<img src="https://www.atacadogames.com/imagem/redragon/mouse-gamer-redragon-cobra-fps-m711-fps-rgb-24000-dpi-preto/2/117104.jpg?pfdrid_c=true" alt='dev' height='75'>](https://)
+- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124902370328587/unknown.png" alt='dev' height='30'>](https://) [<img src="https://www.atacadogames.com/imagem/redragon/mouse-gamer-redragon-cobra-fps-m711-fps-rgb-24000-dpi-preto/2/117104.jpg?pfdrid_c=true" alt='dev' height='65'>](https://)
 - Microfone | ([Tomate MTG-020](tomate.tv/produto/mtg-020))
-- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124902714245160/unknown.png" alt='dev' height='40'>](https://) [<img src="https://media.discordapp.net/attachments/973699852229804062/1028127633877237760/unknown.png" alt='dev' height='50'>](https://)
+- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124902714245160/unknown.png" alt='dev' height='30'>](https://) [<img src="https://media.discordapp.net/attachments/973699852229804062/1028127633877237760/unknown.png" alt='dev' height='40'>](https://)
 
 # Interesses:
 - Mouse | ([Redragon Storm Pro](https://www.redragon.com.br/storm-elite))
