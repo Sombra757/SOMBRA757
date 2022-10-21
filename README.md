@@ -4,11 +4,11 @@
 
 # Contato:
 - Oferta | ([Trocar](steamcommunity.com/tradeoffer/new/?partner=1102007752&token=OvJfljOa))
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" alt='dev' height='50'>](https://)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" alt='dev' height='40'>](https://)
 - Suporte | ([Doar](roblox.com/catalog/10237818678))
-- [<img src="https://static.wikia.nocookie.net/logopedia/images/1/1e/Roblox_2022_%28Icon%29.png/revision/latest/scale-to-width-down/200?cb=20220831193228" alt='dev' height='50'>](https://)
+- [<img src="https://static.wikia.nocookie.net/logopedia/images/1/1e/Roblox_2022_%28Icon%29.png/revision/latest/scale-to-width-down/200?cb=20220831193228" alt='dev' height='40'>](https://)
 - Servidor | ([Entrar](discord.gg/4PFE8WA))
-- [<img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" alt='dev' height='35'>](https://)
+- [<img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" alt='dev' height='25'>](https://)
 
 # Informações Pessoais:
 - Nome | Não Informado
@@ -20,21 +20,21 @@
 
 # Especificações:
 - SO | ([Windows 10 Pro](https://www.microsoft.com/pt-br/d/windows-10-pro))
-- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124896930308106/unknown.png" alt='dev' height='40'>](https://)
+- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124896930308106/unknown.png" alt='dev' height='30'>](https://)
 - Placa-mãe | ([ASUS H61M-A](asus.com/br/SupportOnly/H61M-A/HelpDesk_Knowledge))
-- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124897358135438/unknown.png" alt='dev' height='40'>](https://)
+- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124897358135438/unknown.png" alt='dev' height='30'>](https://)
 - CPU | ([Intel Core i3-3250](intel.com/content/www/br/pt/ark/products/74744))
-- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124900382212147/unknown.png" alt='dev' height='40'>](https://)
+- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124900382212147/unknown.png" alt='dev' height='30'>](https://)
 - RAM¹ | ([HyperX DDR3 8,0 GB](https://www.kingstonstore.com.br/products/hx316c10fb-8))
-- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124900730347550/unknown.png" alt='dev' height='50'>](https://)
+- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124900730347550/unknown.png" alt='dev' height='40'>](https://)
 - RAM² | ([HyperX DDR3 8,0 GB](https://www.kingstonstore.com.br/products/hx316c10fb-8))
-- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124900730347550/unknown.png" alt='dev' height='50'>](https://)
+- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124900730347550/unknown.png" alt='dev' height='40'>](https://)
 - HD | ([Seagate BarraCuda 1TB ST 1000DN003](mercadolivre.com.br/disco-rigido-interno-seagate-barracuda-st1000dm003-1tb))
-- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124901271412766/unknown.png" alt='dev' height='50'>](https://)
+- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124901271412766/unknown.png" alt='dev' height='40'>](https://)
 - GPU | ([NVIDIA GeForce GT 1030](nvidia.com/pt-br/drivers/geforce-gt-1030))
-- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124896494108702/unknown.png" alt='dev' height='40'>](https://)
+- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028124896494108702/unknown.png" alt='dev' height='30'>](https://)
 - Fonte | ([Corsair CX430](corsair.com/pt/pt/Categorias/Produtos/Unidades-de-fonte-de-alimenta%C3%A7%C3%A3o/CX-SERIES/p/CP-9020046-EU))
-- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028125420798885948/unknown.png" alt='dev' height='50'>](https://)
+- [<img src="https://media.discordapp.net/attachments/973699852229804062/1028125420798885948/unknown.png" alt='dev' height='40'>](https://)
 
 # Periféricos:
 - Gabinete | ([Satellite K636]([tdagger.com.br/produtos/bora](https://www.lojasparaguai.com.br/lojas-no-paraguai/compubras-computers/gabinete-kit-satellite-k636-4baias-espanhol_968549))
