@@ -1,4 +1,4 @@
-### Bem-vindo(a) ao GitHub Steam de Sombra757ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⎯ ❐ ⤬
+### Bem-vindo(a) ao GitHub de Sombra757ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤㅤㅤㅤㅤㅤ⎯ ❐ ⤬
 
 - Mantenha sua Conta Segura em: ([docs.github.com](https://docs.github.com/pt/communities/maintaining-your-safety-on-github))
 
