@@ -1,6 +1,6 @@
 ### Bem-vindo(a) ao GitHub de Sombra757ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤㅤㅤㅤㅤㅤ⎯ ❐ ⤬
 
-- Mantenha sua Conta Segura em: ([docs.github.com](https://docs.github.com/pt/communities/maintaining-your-safety-on-github))
+- Mantenha sua Conta Segura em: docs.github.com/pt/communities/maintaining-your-safety-on-github
 
 # Contato:
 - Oferta | ([Trocar](steamcommunity.com/tradeoffer/new/?partner=1102007752&token=OvJfljOa))
